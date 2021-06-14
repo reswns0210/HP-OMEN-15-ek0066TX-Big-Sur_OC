@@ -8,7 +8,7 @@
 - **이 파일을 사용하여 발생하는 피해는 보증하지 않습니다.** 
 - **Damage caused by the use of this file is not guaranteed.**
 ---
-> Specs:
+> HP-OMEN-15-ek0066TX Specs:
 ```mdblock
 Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz (12 CPUs)
 SAMSUNG SODIMM 3200Hz 16GB
@@ -19,7 +19,9 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 ```
 ---
 ### Works:
-- [x] 144hz-display, no backlight.
+- [x] Booting
+- [x] 144hz-display
+- [x] Intel UHD 630 Graphics 
 - [x] Keyboard
 - [x] Trackpad
 - [x] USB3.0 / 2.0 /Thunderbolt
@@ -30,8 +32,53 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 - [x] Audio
 - [x] Sleep
 
+
+---
+### Fixed:
+- [x] USB Mapping Error with Big Sur 11.4
+
+---
+### Issue:
+- Unstable to boot,
+- Can't Use RTX2060 Graphics card. (Not supported)
+
 ---
 ### Not Tested:
-- [] SDCard
-- [] Headphone jack (Possible to replace USB-C Headphone)
-- [] 
+- SDCard
+- Headphone jack (Possible to replace USB-C Headphone)
+- HDMI & Mini Display Port
+
+---
+### Requirements
+- Opencore Pkg 0.7.0
+- Propertree for edit config.plist
+- Over 8GB USB for initial booting
+
+---
+### Include KEXTS Infomation
+```mdblock
+AirportItlwm.kext
+AppleALC.kext
+CPUFriend.kext
+CPUFriendDataProvider.kext
+CpuTscSync.kext
+ECEnabler.kext
+IntelBluetoothFirmware.kext
+IntelBluetoothInjector.kext
+Lilu.kext
+NoTouchID.kext
+NVMeFix.kext
+RealtekRTL8111.kext
+SMCBatteryManager.kext
+SMCDellSensors.kext
+SMCLightSensor.kext
+SMCProcessor.kext
+SMCSuperIO.kext
+USBMap.kext
+VirtualSMC.kext
+VoodooI2C.kext
+VoodooI2CHID.kext
+VoodooPS2Controller.kext
+WhateverGreen.kext
+XHCI-unsupported.kext
+```
