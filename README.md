@@ -89,4 +89,4 @@ XHCI-unsupported.kext
 ---
 ### Credits
 - dortania's Opencore Guide (https://dortania.github.io/)
-- x86.kr
+- x86.co.kr (https://x86.co.kr/)
