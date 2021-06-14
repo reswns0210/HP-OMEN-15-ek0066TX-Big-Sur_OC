@@ -18,3 +18,20 @@ Intel(R) UHD Graphics
 NVIDIA GeForce RTX 2060 with GDDR6 6GB
 ```
 ---
+### Works:
+- [x] 144hz-display, no backlight.
+- [x] Keyboard
+- [x] Trackpad
+- [x] USB3.0 / 2.0 /Thunderbolt
+- [x] Wifi + Bluetooth
+- [x] LAN Adapter
+- [x] Battery & Power management
+- [x] Webcam
+- [x] Audio
+- [x] Sleep
+
+---
+### Not Tested:
+- [] SDCard
+- [] Headphone jack (Possible to replace USB-C Headphone)
+- [] 
