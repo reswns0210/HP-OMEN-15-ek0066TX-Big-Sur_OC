@@ -83,7 +83,10 @@ WhateverGreen.kext
 XHCI-unsupported.kext
 ```
 ---
-### Post-install
-- You must generate your own serial number with GenSMBIOS for using facetime & imessages.
-- https://github.com/corpnewt/GenSMBIOS
-- You can edit serial number with Propertree
+### Post-install & Tools
+- **You must generate your own serial number with GenSMBIOS for using facetime & imessages** (https://github.com/corpnewt/GenSMBIOS)
+- You can edit serial number & config.plist with Propertree (https://github.com/corpnewt/ProperTree)
+---
+### Credits
+- dortania's Opencore Guide (https://dortania.github.io/)
+- x86.kr
