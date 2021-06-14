@@ -8,7 +8,7 @@
 - **이 파일을 사용하여 발생하는 피해는 보증하지 않습니다.** 
 - **Damage caused by the use of this file is not guaranteed.**
 ---
-### specs:
+### Specs:
 > HP OMEN 15-ek0066TX:
 ```mdblock
 Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz (12 CPUs)
