@@ -32,7 +32,6 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 - [x] Audio
 - [x] Sleep
 
-
 ---
 ### Fixed:
 - [x] USB Mapping Error with Big Sur 11.4
