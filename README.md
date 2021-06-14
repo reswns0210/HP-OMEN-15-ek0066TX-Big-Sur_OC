@@ -39,13 +39,13 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 
 ---
 ### Issue:
-- Unstable to boot,
+- Unstable to boot
+- Headphone jack (Possible to replace USB-C Headphone)
 - Can't Use RTX2060 Graphics card. (Not supported)
 
 ---
 ### Not Tested:
 - SDCard
-- Headphone jack (Possible to replace USB-C Headphone)
 - HDMI & Mini Display Port
 
 ---
