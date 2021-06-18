@@ -12,7 +12,7 @@
 > HP OMEN 15-ek0066TX:
 ```mdblock
 Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz (12 CPUs)
-SAMSUNG SODIMM 3200Hz 16GB
+SAMSUNG SODIMM 3200MHz 16GB
 KIOXIA NVME SSD 512GB
 Main Display: IPS FHD 144Hz
 Intel(R) UHD Graphics
@@ -40,6 +40,7 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 ---
 ### Issue:
 - Unstable to boot
+- Microphone
 - Headphone jack (Possible to replace USB-C Headphone)
 - Can't Use RTX2060 Graphics card. (Not supported)
 
