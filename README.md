@@ -20,7 +20,7 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 ```
 ---
 ### Works:
-- [x] Booting
+- [x] Boot
 - [x] 144hz-display
 - [x] Intel UHD 630 Graphics 
 - [x] Keyboard
@@ -39,15 +39,14 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 
 ---
 ### Issue:
-- Unstable to boot
 - Microphone
 - Headphone jack (Possible to replace USB-C Headphone)
-- Can't Use RTX2060 Graphics card. (Not supported)
+- Can't Use RTX2060 Graphics card. (NVIDIA Webdriver Not supported)
+- SDCard
+- HDMI & Mini Display Port
 
 ---
 ### Not Tested:
-- SDCard
-- HDMI & Mini Display Port
 
 ---
 ### Requirements
