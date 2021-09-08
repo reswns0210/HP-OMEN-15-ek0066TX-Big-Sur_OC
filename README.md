@@ -20,7 +20,7 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 ```
 ---
 ### Works:
-- [x] Boot
+- [x] Booting
 - [x] 144hz-display
 - [x] Intel UHD 630 Graphics 
 - [x] Keyboard
@@ -30,7 +30,7 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 - [x] LAN Adapter
 - [x] Battery & Power management
 - [x] Webcam
-- [x] Audio
+- [x] Audio (3.5 Jack & USB-C Both Support)
 - [x] Sleep
 
 ---
@@ -39,10 +39,10 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 
 ---
 ### Issue:
+- Slow booting speed, You need waiting for almost 5min in Black screen.
 - Microphone
-- Headphone jack (Possible to replace USB-C Headphone)
 - Can't Use RTX2060 Graphics card. (NVIDIA Webdriver Not supported)
-- SDCard
+- SDCard Slot
 - HDMI & Mini Display Port
 
 ---
@@ -50,7 +50,7 @@ NVIDIA GeForce RTX 2060 with GDDR6 6GB
 
 ---
 ### Requirements
-- Opencore Pkg 0.7.0
+- Opencore Pkg 0.7.2
 - Propertree for edit config.plist
 - Over 8GB USB for initial booting
 
